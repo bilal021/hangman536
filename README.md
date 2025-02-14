@@ -17,7 +17,32 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ## Installation instruction
 
-Soon to be added.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/hangman536.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd hangman536
+    ```
+3. (Optional) Create a virtual environment:
+    ```bash
+    python -m venv venv
+    ```
+4. (Optional) Activate the virtual environment:
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+5. Install the required dependencies (if any):
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 
 ## Usage instructions
 
@@ -29,3 +54,4 @@ Soon to be added.
 
 ## License information
 
+This project is licensed under the MIT License.
