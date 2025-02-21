@@ -1,0 +1,8 @@
+.
+├── file_structure.txt
+├── hangman_Template.py
+├── milestone_2.py
+├── milestone_3.py
+└── milestone_4.py
+
+1 directory, 5 files

@@ -16,7 +16,7 @@ if len(user_guess) == 1 and user_guess.isalpha():
 else:
     print('Oops! That is not a valid input.')
 
-# Create check guess, it checks if user-guess is in the chosen word
+# Create check guess, it checks if user-guess is in the chosen word.
 def check_guess(user_guess):
 
     guess = user_guess.lower()
@@ -28,6 +28,7 @@ def check_guess(user_guess):
 
     return user_guess
 
+# Create an ask for input function, asking user to enter a single letter guess.
 def ask_for_input():
     
     while True:
