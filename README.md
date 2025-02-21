@@ -49,9 +49,15 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 Soon to be added.
 
 ## File structure
+.
+├── file_structure.txt
+├── hangman_Template.py
+├── milestone_2.py
+├── milestone_3.py
+└── milestone_4.py
 
-Soon to be added.
+1 directory, 5 files
 
 ## License information
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
