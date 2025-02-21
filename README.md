@@ -38,15 +38,10 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
      ```bash
      source venv/bin/activate
      ```
-5. Install the required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-
+     
 ## Usage instructions
 
-Soon to be added.
+python milestone_5.py
 
 ## File structure
 .
@@ -54,9 +49,11 @@ Soon to be added.
 ├── hangman_Template.py
 ├── milestone_2.py
 ├── milestone_3.py
-└── milestone_4.py
+├── milestone_4.py
+├── milestone_5.py
+└── README.md
 
-1 directory, 5 files
+0 directories, 7 files
 
 ## License information
 
